@@ -7,6 +7,12 @@
         "config": {
           "includeFiles": ["db.json"]
         }
+      },
+      {
+        "github": {
+          "enabled": false,
+          "silent": true
+        }
       }
     ],
     "routes": [
