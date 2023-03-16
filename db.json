@@ -1,6 +1,10 @@
 {
   "users": [
-   
+     {
+       "username":"yogi",
+       "email":"yogi@gmail.com",
+       "pass" :"1234"
+     }
   ],
   "comments": [
     {
