@@ -1,10 +1,35 @@
 {
   "users": [
-     {
-       "username":"yogi",
-       "email":"yogi@gmail.com",
-       "pass" :"1234"
-     }
+    {
+      "username": "yogi",
+      "email": "yogi@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "rooms": [
+    {
+      "category": "family",
+      "image": "https://image3.mouthshut.com/images/ImagesR/imageuser_m/2017/11/925735786-828994-1.jpg?rnd=65219",
+      "Room_type": "AC",
+      "Bed_type": "double",
+      "no_of_adults": "1",
+      "Max_capacity": "2",
+      "cost": "1000",
+      "status": false,
+      "id": 2
+    },
+    {
+      "category": "suite",
+      "image": "https://image3.mouthshut.com/images/imagesp/925735786s.jpg",
+      "Room_type": "Non/Ac",
+      "Bed_type": "single",
+      "no_of_adults": "3",
+      "Max_capacity": "4",
+      "cost": "4000",
+      "status": false,
+      "id": 3
+    }
   ],
   "comments": [
     {
